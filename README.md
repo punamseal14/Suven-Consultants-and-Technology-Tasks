@@ -17,6 +17,7 @@
 
 **Goal-** 
 >Our goal is to transform the raw data into information and then convert it into knowledge and to perform data cleaning, perform analysis for testing the (given) Hypothesis i.e. *The Null Hypothesis Ho is “Has the Apparent temperature and humidity compared monthly across 10 years of the data indicate an increase due to Global warming”*.
+
 The Ho means we need to find whether the average Apparent temperature for the month of a month say April starting from 2006 to 2016 and the average humidity for the same period have increased or not.*This monthly analysis has to be done for all 12 months over the 10 year period*.
 <br />
 
@@ -37,3 +38,5 @@ The Ho means we need to find whether the average Apparent temperature for the mo
 <br />
 
 [<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" align="left" width="50">](https://github.com/punamseal14/Suven-Consultants-and-Technology-Tasks/blob/master/Performing%20Analysis%20of%20Meteorological%20Data/main.ipynb)
+[<img src="https://user-images.githubusercontent.com/87115309/130572772-7366344b-3889-401a-8df3-5f66dadeed57.png" align="center" width="150">](https://medium.com/@PunamSeal/performing-analysis-of-meteorological-data-a4b36b4694a0)
+
