@@ -37,6 +37,9 @@ The Ho means we need to find whether the average Apparent temperature for the mo
 <br />
 <br />
 
+*(Please click on the logos to overview my project)*
+
 [<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" align="left" width="50">](https://github.com/punamseal14/Suven-Consultants-and-Technology-Tasks/blob/master/Performing%20Analysis%20of%20Meteorological%20Data/main.ipynb)
 [<img src="https://user-images.githubusercontent.com/87115309/130572772-7366344b-3889-401a-8df3-5f66dadeed57.png" align="center" width="120">](https://medium.com/@PunamSeal/performing-analysis-of-meteorological-data-a4b36b4694a0)
+
 
