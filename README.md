@@ -53,7 +53,7 @@ The Ho means we need to find whether the average Apparent temperature for the mo
 
 **Dataset-**
 **The Digits Dataset:**
->The scikit-learn library provides numerous datasets that are useful for testing many problems of data analysis and prediction of the results. Also in this case there is a dataset of images called Digits. This dataset consists of 1,797 images that are 8*8 pixels in size. Each image is a handwritten digits in grayscale, as shown in these Figure.
+(*The scikit-learn library provides numerous datasets that are useful for testing many problems of data analysis and prediction of the results. Also in this case there is a dataset of images called Digits. This dataset consists of 1,797 images that are 8*8 pixels in size. Each image is a handwritten digits in grayscale, as shown in these Figure.*)
 
 <img src="https://user-images.githubusercontent.com/87115309/131717546-055008ad-b06d-455f-aaf8-44746e0e7d83.png" align="right" width="130">
 
